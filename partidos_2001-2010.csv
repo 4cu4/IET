@@ -1,0 +1,513 @@
+PROVINCIA;PARTIDO;HAB_2001;HAB_2010;VAR_2001-2010;VAR_PORCENTUAL
+Santa Cruz;Lago Argentino;7500;18864;11364;152
+Santa Cruz;Río Chico;2926;5158;2232;76
+Neuquen;Pehuenches;13765;24087;10322;75
+Santa Cruz;Deseado;72953;107630;34677;48
+Rio Negro;Valcheta;4946;7101;2155;44
+Neuquen;Añelo;7554;10786;3232;43
+San Luis;Junín;20271;28933;8662;43
+Provincia de Buenos Aires.;La Matanza;1255288;1775816;520528;42
+Chubut;Biedma;58677;82883;24206;41
+Santa Cruz;Magallanes;6536;9202;2666;41
+Santa Cruz;Lago Buenos Aires;6223;8750;2527;41
+Santa Cruz;Corpen Aike;7942;11093;3151;40
+Neuquen;Los Lagos;8654;11998;3344;39
+Provincia de Buenos Aires.;Ezeiza;118807;163722;44915;38
+Salta;Cerrillos;26320;35789;9469;36
+Salta;La Caldera;5711;7763;2052;36
+San Juan;Iglesia;6737;9099;2362;35
+Provincia de Buenos Aires.;Presidente Perón;60191;81141;20950;35
+La Pampa;Toay;9256;12409;3153;34
+Provincia de Buenos Aires.;San Vicente;44529;59478;14949;34
+Neuquen;Aluminé;6308;8306;1998;32
+Cordoba;Colón;171067;225151;54084;32
+Misiones;San Pedro;23736;31051;7315;31
+Provincia de Buenos Aires.;Villa Gesell;24282;31730;7448;31
+Chubut;Sarmiento;8724;11396;2672;31
+Chubut;Escalante;143689;186583;42894;30
+San Juan;Pocito;40969;53162;12193;30
+Provincia de Buenos Aires.;Pilar;232463;299077;66614;29
+Provincia de Buenos Aires.;General Rodríguez;67931;87185;19254;28
+Misiones;General Manuel Belgrano;33488;42902;9414;28
+Tierra del Fuego;Río Grande;55131;70042;14911;27
+Tierra del Fuego;Antártida Argentina e Islas del Atlántico Sur;163;207;44;27
+Salta;Cafayate;11785;14850;3065;26
+Formosa;Ramón Lista;10928;13754;2826;26
+Provincia de Buenos Aires.;Tigre;301223;376381;75158;25
+Provincia de Buenos Aires.;Marcos Paz;43400;54181;10781;25
+Provincia de Buenos Aires.;Pinamar;20666;25728;5062;25
+Tierra del Fuego;Ushuaia;45785;56956;11171;24
+Rio Negro;El Cuy;4252;5280;1028;24
+La Rioja;Capital;146411;180995;34584;24
+Misiones;Iguazú;66539;82227;15688;24
+Provincia de Buenos Aires.;Esteban Echeverría;243974;300959;56985;23
+Provincia de Buenos Aires.;Exaltación de la Cruz;24167;29805;5638;23
+Rio Negro;San Antonio;23972;29284;5312;22
+Provincia de Buenos Aires.;Florencio Varela;348970;426005;77035;22
+Chubut;Cushamen;17134;20919;3785;22
+La Pampa;Puelén;7757;9468;1711;22
+Santa Cruz;Güer Aike;92878;113267;20389;22
+Provincia de Buenos Aires.;Cañuelas;42575;51892;9317;22
+Rio Negro;Bariloche;109826;133500;23674;22
+San Juan;9 de Julio;7652;9307;1655;22
+Rio Negro;Pilcaniyeu;6114;7428;1314;22
+Misiones;Candelaria;22290;27040;4750;21
+San Luis;La Capital (1);168771;204019;35248;21
+Jujuy;San Antonio;3698;4466;768;21
+Provincia de Buenos Aires.;General Lavalle;3063;3700;637;21
+Neuquen;Lácar;24670;29748;5078;21
+Cordoba;Calamuchita;45418;54730;9312;21
+San Juan;Zonda;4038;4863;825;20
+Provincia de Buenos Aires.;Monte;17488;21034;3546;20
+Mendoza;Malargüe;23020;27660;4640;20
+Provincia de Buenos Aires.;Escobar;178155;213619;35464;20
+Rio Negro;25 de Mayo;13153;15743;2590;20
+Tucuman;Lules;57235;68474;11239;20
+Provincia de Buenos Aires.;Moreno;380503;452505;72002;19
+Provincia de Buenos Aires.;Mar Chiquita;17908;21279;3371;19
+Jujuy;Tilcara;10403;12349;1946;19
+La Pampa;Chalileo;2517;2985;468;19
+Formosa;Matacos;12133;14375;2242;19
+San Juan;Chimbas;73829;87258;13429;18
+Entre Rios;Colón;52718;62160;9442;18
+Tucuman;Yerba Buena;63707;75076;11369;18
+Misiones;Guaraní;57818;67897;10079;17
+Mendoza;Tunuyán;42125;49458;7333;17
+La Pampa;Curacó;886;1040;154;17
+Chaco;Almirante Brown;29086;34075;4989;17
+Provincia de Buenos Aires.;Brandsen;22515;26367;3852;17
+La Rioja;Chilecito;42248;49432;7184;17
+Provincia de Buenos Aires.;Villarino;26517;31014;4497;17
+San Juan;Albardón;20413;23888;3475;17
+Provincia de Buenos Aires.;Tres Lomas;7439;8700;1261;17
+Santiago del Estero;Copo;26984;31404;4420;16
+Provincia de Buenos Aires.;Magdalena;16603;19301;2698;16
+Provincia de Buenos Aires.;General Las Heras;12799;14889;2090;16
+Catamarca;Santa Rosa;10349;12034;1685;16
+Santiago del Estero;Belgrano;7950;9243;1293;16
+Provincia de Buenos Aires.;Monte Hermoso;5602;6499;897;16
+San Juan;Sarmiento;19092;22131;3039;16
+Neuquen;Huiliches;12700;14725;2025;16
+Chubut;Gaiman;9612;11141;1529;16
+Provincia de Buenos Aires.;José C. Paz;230208;265981;35773;16
+Misiones;Eldorado;67726;78221;10495;16
+Neuquen;Confluencia;314793;362673;47880;15
+Salta;Anta;49841;57411;7570;15
+Provincia de Buenos Aires.;La Costa;60483;69633;9150;15
+Provincia de Buenos Aires.;General Alvarado;34391;39594;5203;15
+Mendoza;San Carlos;28341;32631;4290;15
+Cordoba;Punilla;155124;178401;23277;15
+Catamarca;Valle Viejo;23707;27242;3535;15
+Santiago del Estero;Loreto;17442;20036;2594;15
+Mendoza;Luján de Cuyo;104470;119888;15418;15
+Provincia de Buenos Aires.;Roque Pérez;10902;12513;1611;15
+Chubut;Futaleufú;37540;43076;5536;15
+Salta;Rosario de Lerma;33741;38702;4961;15
+Corrientes;Concepción;18411;21113;2702;15
+Provincia de Buenos Aires.;Tandil;108109;123871;15762;15
+Jujuy;El Carmen;84667;97039;12372;15
+Jujuy;Yavi;18160;20806;2646;15
+Santiago del Estero;Moreno;28053;32130;4077;15
+Chaco;General Belgrano;10470;11988;1518;15
+Mendoza;Lavalle;32129;36738;4609;14
+Misiones;Capital;284279;324756;40477;14
+Entre Rios;Federación;60204;68736;8532;14
+Cordoba;San Alberto;32395;37004;4609;14
+Cordoba;Santa María;86083;98188;12105;14
+San Juan;Caucete;33609;38343;4734;14
+Mendoza;Tupungato;28539;32524;3985;14
+Provincia de Buenos Aires.;La Plata;574369;654324;79955;14
+Rio Negro;General Roca;281653;320921;39268;14
+Rio Negro;Adolfo Alsina;50701;57678;6977;14
+Catamarca;Capayán;14137;16085;1948;14
+San Luis;General Pedernera;110814;125899;15085;14
+Salta;Chicoana;18248;20710;2462;14
+Salta;Capital;472971;536113;63142;13
+Chubut;Rawson;115829;131313;15484;13
+Corrientes;Santo Tomé;54050;61297;7247;13
+Provincia de Buenos Aires.;Ramallo;29179;33042;3863;13
+Provincia de Buenos Aires.;Suipacha;8904;10081;1177;13
+Catamarca;Capital;141260;159703;18443;13
+Provincia de Buenos Aires.;Luján;93992;106273;12281;13
+Misiones;Cainguás;47271;53403;6132;13
+Chaco;1º de Mayo;9131;10322;1191;13
+Mendoza;Guaymallén;251339;283803;32464;13
+Provincia de Buenos Aires.;Campana;83698;94461;10763;13
+San Luis;Ayacucho;16906;19087;2181;13
+Provincia de Buenos Aires.;General Belgrano;15381;17365;1984;13
+Catamarca;Pomán;9543;10776;1233;13
+Provincia de Buenos Aires.;Zárate;101271;114269;12998;13
+Provincia de Buenos Aires.;Capitán Sarmiento;12854;14494;1640;13
+Chaco;Fray Justo Santa María de Oro;10485;11826;1341;13
+Salta;General José de San Martín;139204;156910;17706;13
+San Luis;Chacabuco;18410;20744;2334;13
+San Juan;25 de Mayo;15193;17119;1926;13
+Provincia de Buenos Aires.;Berazategui;287913;324244;36331;13
+Tucuman;Tafí Viejo;108017;121638;13621;13
+Cordoba;Cruz del Eje;52172;58759;6587;13
+Cordoba;Totoral;16479;18556;2077;13
+Provincia de Buenos Aires.;Quilmes;518788;582943;64155;12
+Provincia de Buenos Aires.;Merlo;469985;528494;58509;12
+Misiones;Oberá;95667;107501;11834;12
+La Rioja;Arauco;13720;15418;1698;12
+Rio Negro;Conesa;6291;7069;778;12
+Tucuman;Trancas;15473;17371;1898;12
+Chaco;Libertad;10822;12158;1336;12
+Mendoza;Maipú;153600;172332;18732;12
+Tucuman;Burruyacú;32936;36951;4015;12
+Catamarca;Antofagasta de la Sierra;1282;1436;154;12
+Salta;Orán;124029;138838;14809;12
+Provincia de Buenos Aires.;Salto;29189;32653;3464;12
+Salta;General Güemes;42255;47226;4971;12
+Formosa;Formosa;210071;234354;24283;12
+Tucuman;Famaillá;30951;34542;3591;12
+Catamarca;Fray Mamerto Esquiú;10658;11896;1238;12
+La Pampa;Caleu Caleu;2075;2313;238;12
+Jujuy;Dr. Manuel Belgrano;238012;265249;27237;11
+Santiago del Estero;Atamisqui;9809;10923;1114;11
+Mendoza;Las Heras;182962;203666;20704;11
+Tucuman;Cruz Alta;162240;180499;18259;11
+Misiones;Apóstoles;38028;42249;4221;11
+Provincia de Buenos Aires.;Malvinas Argentinas;290691;322375;31684;11
+Santiago del Estero;Robles;40060;44415;4355;11
+Salta;Rivadavia;27370;30357;2987;11
+Provincia de Buenos Aires.;Rivadavia;15452;17143;1691;11
+Santiago del Estero;Banda;128387;142279;13892;11
+Provincia de Buenos Aires.;Baradero;29562;32761;3199;11
+Santa Fe;San Lorenzo;142097;157255;15158;11
+Provincia de Buenos Aires.;San Andrés de Giles;20829;23027;2198;11
+Chaco;12 de Octubre;20149;22281;2132;11
+Provincia de Buenos Aires.;Tapalqué;8296;9178;882;11
+Provincia de Buenos Aires.;Berisso;80092;88470;8378;11
+Santiago del Estero;Alberdi;15617;17252;1635;11
+Formosa;Bermejo;12710;14046;1336;11
+Cordoba;Juárez Celman;55348;61078;5730;10
+San Juan;Santa Lucía;43565;48087;4522;10
+Provincia de Buenos Aires.;Ensenada;51448;56729;5281;10
+Santa Fe;Las Colonias;95202;104946;9744;10
+Chaco;Comandante Fernández;88164;96944;8780;10
+Cordoba;Río Primero;42429;46675;4246;10
+Chaco;Chacabuco;27813;30590;2777;10
+Santa Fe;Castellanos;162165;178092;15927;10
+Cordoba;General San Martín;116107;127454;11347;10
+Provincia de Buenos Aires.;General Pueyrredón;564056;618989;54933;10
+Misiones;Libertador General San Martín;42440;46561;4121;10
+Provincia de Buenos Aires.;Pila;3318;3640;322;10
+Corrientes;Lavalle;26250;28759;2509;10
+San Juan;San Martín;10140;11115;975;10
+Chubut;Florentino Ameghino;1484;1627;143;10
+Provincia de Buenos Aires.;Chascomús;38647;42277;3630;9
+Cordoba;San Javier;48951;53520;4569;9
+Rio Negro;Avellaneda;32308;35323;3015;9
+Catamarca;Belén;25475;27843;2368;9
+Neuquen;Picunches;6427;7022;595;9
+Santiago del Estero;Capital;244567;267125;22558;9
+Jujuy;Palpalá;48199;52631;4432;9
+Provincia de Buenos Aires.;San Miguel;253086;276190;23104;9
+Provincia de Buenos Aires.;Lobos;33141;36172;3031;9
+Mendoza;San Martín;108448;118220;9772;9
+Misiones;San Javier;19187;20906;1719;9
+Corrientes;San Cosme;13189;14381;1192;9
+Santiago del Estero;Jiménez;13170;14352;1182;9
+Corrientes;Capital;328868;358223;29355;9
+Tucuman;Monteros;58442;63641;5199;9
+Formosa;Pilcomayo;78114;85024;6910;9
+San Juan;Ullum;4490;4886;396;9
+La Pampa;Capital;96920;105312;8392;9
+Chaco;Independencia;20620;22411;1791;9
+Provincia de Buenos Aires.;Hipólito Yrigoyen;8819;9585;766;9
+Chaco;Libertador General San Martín;54470;59147;4677;9
+Provincia de Buenos Aires.;General Paz;10319;11202;883;9
+Cordoba;San Justo;190182;206307;16125;9
+San Juan;Rivadavia;76150;82641;6491;9
+Provincia de Buenos Aires.;Saladillo;29600;32103;2503;9
+Provincia de Buenos Aires.;San Antonio de Areco;21333;23138;1805;9
+Provincia de Buenos Aires.;Florentino Ameghino;8171;8869;698;9
+La Pampa;Catriló;6728;7293;565;8
+Mendoza;San Rafael;173571;188018;14447;8
+Cordoba;Río Segundo;95803;103718;7915;8
+Jujuy;Rinconada;2298;2488;190;8
+La Rioja;Sanagasta;2165;2345;180;8
+Misiones;Leandro N. Alem;41670;45075;3405;8
+Provincia de Buenos Aires.;Tornquist;11759;12723;964;8
+Santiago del Estero;Aguirre;7035;7610;575;8
+Entre Rios;Concordia;157291;170033;12742;8
+Santa Fe;Belgrano;41449;44788;3339;8
+Provincia de Buenos Aires.;Patagones;27938;30207;2269;8
+Provincia de Buenos Aires.;San Fernando;151131;163240;12109;8
+Entre Rios;Gualeguaychú;101350;109461;8111;8
+Jujuy;Ledesma;75716;81790;6074;8
+Santiago del Estero;Río Hondo;50781;54867;4086;8
+Mendoza;Junín;35045;37859;2814;8
+Provincia de Buenos Aires.;General Juan Madariaga;18286;19747;1461;8
+Provincia de Buenos Aires.;Navarro;15797;17054;1257;8
+Chaco;General Güemes;62227;67132;4905;8
+La Pampa;Maracó;54699;59024;4325;8
+Corrientes;Monte Caseros;33684;36338;2654;8
+Salta;La Candelaria;5286;5704;418;8
+Entre Rios;Gualeguay;48147;51883;3736;8
+Misiones;Montecarlo;34073;36745;2672;8
+Entre Rios;San Salvador;16118;17357;1239;8
+La Pampa;Chapaleufú;10787;11620;833;8
+Tucuman;Leales;51090;54949;3859;8
+Neuquen;Chos Malal;14185;15256;1071;8
+Tucuman;Tafí del Valle;13883;14933;1050;8
+Provincia de Buenos Aires.;Olavarría;103961;111708;7747;8
+Tucuman;Chicligasta;75133;80735;5602;8
+Catamarca;La Paz;21061;22638;1577;8
+Tucuman;La Cocha;17683;19002;1319;8
+Santiago del Estero;San Martín;9148;9831;683;8
+Salta;Los Andes;5630;6050;420;8
+Tucuman;Río Chico;52925;56847;3922;7
+Provincia de Buenos Aires.;Colón;23179;24890;1711;7
+Corrientes;San Martín;12236;13140;904;7
+Santa Fe;La Capital;489505;525093;35588;7
+Cordoba;Río Cuarto;229728;246393;16665;7
+Santiago del Estero;Avellaneda;19348;20763;1415;7
+San Juan;Angaco;7570;8125;555;7
+Corrientes;Berón de Astrada;2294;2461;167;7
+Provincia de Buenos Aires.;Almirante Brown;515556;552902;37346;7
+Mendoza;Rivadavia;52567;56373;3806;7
+Provincia de Buenos Aires.;Chacabuco;45445;48703;3258;7
+Tucuman;Juan B. Alberdi;28206;30237;2031;7
+Provincia de Buenos Aires.;Dolores;25216;27042;1826;7
+Neuquen;Loncopué;6457;6925;468;7
+Neuquen;Picún Leufú;4272;4578;306;7
+Entre Rios;Uruguay;94070;100728;6658;7
+Provincia de Buenos Aires.;Trenque Lauquen;40181;43021;2840;7
+Cordoba;General Roca;33323;35645;2322;7
+Chaco;San Fernando;365637;390874;25237;7
+Provincia de Buenos Aires.;San Pedro;55234;59036;3802;7
+Provincia de Buenos Aires.;General Villegas;28960;30864;1904;7
+Santiago del Estero;Juan F. Ibarra;16937;18051;1114;7
+Provincia de Buenos Aires.;Arrecifes;27279;29044;1765;7
+Corrientes;San Luis del Palmar;16513;17590;1077;7
+Provincia de Buenos Aires.;Daireaux;15857;16889;1032;7
+Santa Fe;Rosario;1121441;1193605;72164;6
+Entre Rios;Paraná;319614;339930;20316;6
+San Juan;Rawson;107740;114368;6628;6
+Chaco;Quitilipi;32083;34081;1998;6
+Provincia de Buenos Aires.;Ituzaingó;158121;167824;9703;6
+Santa Fe;San Cristóbal;64935;68878;3943;6
+Santa Fe;General Obligado;166436;176410;9974;6
+Catamarca;Andalgalá;17102;18132;1030;6
+La Pampa;Realicó;15302;16227;925;6
+Provincia de Buenos Aires.;Bahía Blanca;284776;301572;16796;6
+Chaco;9 de Julio;26955;28555;1600;6
+San Luis;Gobernador Dupuy;11120;11779;659;6
+La Pampa;Limay Mahuida;475;503;28;6
+Provincia de Buenos Aires.;San Nicolás;137867;145857;7990;6
+Formosa;Patiño;64830;68581;3751;6
+La Rioja;Chamical;13383;14160;777;6
+Provincia de Buenos Aires.;Mercedes;59870;63284;3414;6
+Chaco;Sargento Cabral;15030;15889;859;6
+La Rioja;Rosario Vera Peñaloza;13299;14054;755;6
+Jujuy;San Pedro;71037;75037;4000;6
+Provincia de Buenos Aires.;Chivilcoy;60762;64185;3423;6
+Provincia de Buenos Aires.;Punta Indio;9362;9888;526;6
+Cordoba;Unión;100247;105727;5480;6
+Corrientes;Curuzú Cuatiá;42075;44384;2309;6
+Santa Fe;9 de Julio;28273;29832;1559;6
+Provincia de Buenos Aires.;Pergamino;99193;104590;5397;5
+Provincia de Buenos Aires.;Bolívar;32442;34190;1748;5
+Provincia de Buenos Aires.;Laprida;9683;10210;527;5
+Misiones;Concepción;9085;9577;492;5
+Provincia de Buenos Aires.;Carlos Casares;21125;22237;1112;5
+Provincia de Buenos Aires.;Hurlingham;172245;181241;8996;5
+Santa Fe;San Martín;60698;63842;3144;5
+Mendoza;General Alvear;44147;46429;2282;5
+Corrientes;Bella Vista;35350;37181;1831;5
+Provincia de Buenos Aires.;Saavedra;19715;20749;1034;5
+Formosa;Laishi;16227;17063;836;5
+Santiago del Estero;Salavina;10664;11217;553;5
+San Juan;Valle Fértil;6864;7222;358;5
+Entre Rios;Diamante;44095;46361;2266;5
+Santiago del Estero;Pellegrini;19517;20514;997;5
+Provincia de Buenos Aires.;Adolfo Alsina;16245;17072;827;5
+Provincia de Buenos Aires.;Rauch;14434;15176;742;5
+Provincia de Buenos Aires.;Guaminí;11257;11826;569;5
+Corrientes;Paso de los Libres;46326;48642;2316;5
+Formosa;Pilagás;17523;18399;876;5
+Provincia de Buenos Aires.;Carmen de Areco;13992;14692;700;5
+Entre Rios;Islas del Ibicuy;11498;12077;579;5
+San Juan;Calingasta;8176;8588;412;5
+Catamarca;El Alto;3400;3570;170;5
+Mendoza;Godoy Cruz;182977;191903;8926;5
+Santa Fe;General López;182113;191024;8911;5
+Misiones;San Ignacio;55038;57728;2690;5
+Entre Rios;Victoria;34097;35767;1670;5
+Santa Fe;Garay;19913;20890;977;5
+Santiago del Estero;Ojo de Agua;13352;14008;656;5
+Cordoba;Río Seco;12635;13242;607;5
+Cordoba;Pocho;5132;5380;248;5
+Santa Fe;Constitución;83045;86910;3865;5
+Cordoba;Presidente Roque Sáenz Peña;34647;36282;1635;5
+Chaco;O'Higgins;19231;20131;900;5
+San Luis;Coronel Pringles;12571;13157;586;5
+Mendoza;La Paz;9560;10012;452;5
+Santa Fe;San Jerónimo;77253;80840;3587;5
+Cordoba;Marcos Juárez;99761;104205;4444;5
+Jujuy;Cochinoca;12111;12656;545;5
+Corrientes;Itatí;8774;9171;397;5
+Provincia de Buenos Aires.;Castelli;7852;8205;353;5
+Chubut;Tehuelches;5159;5390;231;5
+Jujuy;Susques;3628;3791;163;5
+Provincia de Buenos Aires.;Necochea;89096;92933;3837;4
+Provincia de Buenos Aires.;Lomas de Zamora;591345;616279;24934;4
+Provincia de Buenos Aires.;Avellaneda;328980;342677;13697;4
+Provincia de Buenos Aires.;Balcarce;42039;43823;1784;4
+Santiago del Estero;Mitre;1813;1890;77;4
+;Ciudad Autónoma de Buenos Aires;2776138;2890151;114013;4
+Provincia de Buenos Aires.;Coronel Suárez;36828;38320;1492;4
+Chaco;25 de Mayo;28070;29215;1145;4
+Provincia de Buenos Aires.;Benito Juárez;19443;20239;796;4
+Tucuman;Capital;527607;548866;21259;4
+Cordoba;Ischilín;30105;31312;1207;4
+Salta;La Viña;7152;7435;283;4
+Santiago del Estero;General Taboada;36683;38105;1422;4
+Provincia de Buenos Aires.;Morón;309380;321109;11729;4
+Santa Fe;Caseros;79096;82100;3004;4
+Cordoba;Tulumba;12211;12673;462;4
+Provincia de Buenos Aires.;9 de Julio;45998;47722;1724;4
+Corrientes;Mercedes;39206;40667;1461;4
+Tucuman;Graneros;13063;13551;488;4
+Mendoza;Capital;110993;115041;4048;4
+Provincia de Buenos Aires.;Azul;62996;65280;2284;4
+Provincia de Buenos Aires.;Pehuajó;38400;39776;1376;4
+Corrientes;Saladas;21470;22244;774;4
+Jujuy;Santa Bárbara;17115;17730;615;4
+Jujuy;Humahuaca;16765;17366;601;4
+Cordoba;Capital;1284582;1329604;45022;4
+Santa Fe;San Javier;29912;30959;1047;4
+Salta;Rosario de la Frontera;28013;28993;980;4
+Chaco;Bermejo;24215;25052;837;4
+Mendoza;Santa Rosa;15818;16374;556;4
+Salta;Metán;39006;40351;1345;3
+San Juan;Jáchal;21018;21730;712;3
+Provincia de Buenos Aires.;Ayacucho;19669;20337;668;3
+Entre Rios;Feliciano;14584;15079;495;3
+Provincia de Buenos Aires.;San Cayetano;8119;8399;280;3
+Tucuman;Simoca;29932;30876;944;3
+Entre Rios;Federal;25055;25863;808;3
+Chaco;San Lorenzo;14252;14702;450;3
+Corrientes;San Miguel;10252;10572;320;3
+Neuquen;Collón Curá;4395;4532;137;3
+Corrientes;Goya;87349;89959;2610;3
+Provincia de Buenos Aires.;Lobería;17008;17523;515;3
+Chaco;Mayor Luis J. Fontana;53550;55080;1530;3
+La Rioja;General Belgrano;7161;7370;209;3
+Provincia de Buenos Aires.;General San Martín;403107;414196;11089;3
+Provincia de Buenos Aires.;25 de Mayo;34877;35842;965;3
+Santiago del Estero;Choya;33720;34667;947;3
+Provincia de Buenos Aires.;Bragado;40259;41336;1077;3
+Provincia de Buenos Aires.;Leandro N. Alem;16358;16799;441;3
+Provincia de Buenos Aires.;Alberti;10373;10654;281;3
+Corrientes;Mburucuyá;9012;9252;240;3
+Santiago del Estero;Guasayán;7404;7602;198;3
+San Luis;Belgrano;3881;3985;104;3
+Jujuy;Valle Grande;2386;2451;65;3
+Provincia de Buenos Aires.;Rojas;22842;23432;590;3
+Corrientes;Empedrado;14721;15109;388;3
+Provincia de Buenos Aires.;General Viamonte;17641;18078;437;3
+Corrientes;San Roque;17951;18366;415;2
+La Pampa;Utracán;14504;14839;335;2
+Neuquen;Minas;7072;7234;162;2
+Jujuy;Tumbaya;4553;4658;105;2
+Chubut;Languiñeo;3017;3085;68;2
+Chaco;Maipú;24747;25288;541;2
+Chaco;Presidencia de la Plaza;12231;12499;268;2
+Provincia de Buenos Aires.;Coronel de Marina Leonardo Rosales;60892;62152;1260;2
+Neuquen;Zapala;35806;36549;743;2
+Misiones;25 de Mayo;27187;27754;567;2
+Provincia de Buenos Aires.;General Alvear;10897;11130;233;2
+Santiago del Estero;Rivadavia;4916;5015;99;2
+Cordoba;Tercero Arriba;107460;109554;2094;2
+Provincia de Buenos Aires.;Junín;88664;90305;1641;2
+Corrientes;Ituzaingó;30565;31150;585;2
+Catamarca;Santa María;22127;22548;421;2
+Santiago del Estero;Figueroa;17495;17820;325;2
+La Pampa;Trenel;5324;5426;102;2
+Santa Fe;Iriondo;65486;66675;1189;2
+Provincia de Buenos Aires.;Lincoln;41127;41808;681;2
+Salta;Molinos;5565;5652;87;2
+Provincia de Buenos Aires.;General Guido;2771;2816;45;2
+Provincia de Buenos Aires.;Lanús;453082;459263;6181;1
+Corrientes;Esquina;30372;30802;430;1
+Provincia de Buenos Aires.;Las Flores;23551;23871;320;1
+Santiago del Estero;Silípica;7605;7712;107;1
+Neuquen;Ñorquín;4628;4692;64;1
+Santa Fe;San Justo;40379;40904;525;1
+Cordoba;Sobremonte;4531;4591;60;1
+Provincia de Buenos Aires.;Tordillo;1742;1764;22;1
+Provincia de Buenos Aires.;General Pinto;11129;11261;132;1
+Provincia de Buenos Aires.;Tres de Febrero;336467;340071;3604;1
+Entre Rios;La Paz;66158;66903;745;1
+Entre Rios;Villaguay;48416;48965;549;1
+La Rioja;General Lamadrid;1717;1734;17;1
+La Rioja;Independencia;2405;2427;22;1
+Formosa;Pirané;64023;64566;543;1
+Chaco;General Donovan;13385;13490;105;1
+Rio Negro;Pichi Mahuida;14026;14107;81;1
+Provincia de Buenos Aires.;San Isidro;291505;292878;1373;1
+Entre Rios;Nogoyá;38840;39026;186;1
+Salta;Cachi;7280;7315;35;1
+Santa Fe;Vera;51303;51494;191;0
+Corrientes;General Paz;14775;14836;61;0
+Provincia de Buenos Aires.;Carlos Tejedor;11539;11570;31;0
+Provincia de Buenos Aires.;General Arenales;14876;14903;27;0
+La Pampa;Rancul;10648;10668;20;0
+La Pampa;Atreucó;10134;10153;19;0
+Salta;La Poma;1735;1738;3;0
+Provincia de Buenos Aires.;Adolfo Gonzales Chaves;12037;12047;10;0
+Provincia de Buenos Aires.;Maipú;10193;10188;-5;0
+Chaco;2 de Abril;7435;7432;-3;0
+Provincia de Buenos Aires.;Tres Arroyos;57244;57110;-134;0
+La Rioja;General San Martín;4956;4944;-12;0
+La Pampa;Loventué;8649;8619;-30;0
+Provincia de Buenos Aires.;Salliqueló;8682;8644;-38;0
+Rio Negro;9 de julio;3501;3475;-26;-1
+Salta;Guachipas;3211;3187;-24;-1
+Entre Rios;Tala;25892;25665;-227;-1
+Catamarca;Tinogasta;22570;22360;-210;-1
+La Pampa;Quemú Quemú;8756;8663;-93;-1
+La Rioja;Castro Barros;4322;4268;-54;-1
+Corrientes;Sauce;9151;9032;-119;-1
+Santiago del Estero;Sarmiento;4669;4607;-62;-1
+Catamarca;Ambato;4525;4463;-62;-1
+Provincia de Buenos Aires.;Vicente López;274082;269420;-4662;-2
+La Rioja;General Angel V. Peñaloza;3127;3073;-54;-2
+Provincia de Buenos Aires.;General La Madrid;10984;10783;-201;-2
+Chubut;Paso de Indios;1905;1867;-38;-2
+Chaco;Tapenagá;4188;4097;-91;-2
+Provincia de Buenos Aires.;Pellegrini;6030;5887;-143;-2
+Catamarca;Paclín;4290;4185;-105;-2
+La Rioja;General Ocampo;7331;7145;-186;-3
+Corrientes;General Alvear;8147;7926;-221;-3
+Salta;San Carlos;7208;7016;-192;-3
+La Rioja;Coronel Felipe Varela;9939;9648;-291;-3
+La Rioja;San Blas de los Sauces;4048;3927;-121;-3
+San Juan;Capital;112778;109123;-3655;-3
+Cordoba;Minas;4881;4727;-154;-3
+La Pampa;Conhelo;14591;14077;-514;-4
+Chubut;Río Senguer;6194;5979;-215;-4
+Provincia de Buenos Aires.;Coronel Pringles;23794;22933;-861;-4
+La Rioja;Vinchina;2834;2731;-103;-4
+La Pampa;Hucal;7838;7540;-298;-4
+Provincia de Buenos Aires.;Puán;16381;15743;-638;-4
+Provincia de Buenos Aires.;Coronel Dorrego;16522;15825;-697;-4
+La Pampa;Guatraché;9306;8831;-475;-5
+Catamarca;Ancasti;3082;2917;-165;-5
+Chubut;Gastre;1508;1427;-81;-5
+La Pampa;Chical Co;1595;1502;-93;-6
+Salta;Iruya;6368;5987;-381;-6
+Santiago del Estero;Quebrachos;11331;10568;-763;-7
+Salta;Santa Victoria;11122;10344;-778;-7
+La Rioja;Famatina;6371;5863;-508;-8
+Chubut;Telsen;1788;1644;-144;-8
+San Luis;Libertador General San Martín;5189;4707;-482;-9
+La Rioja;General Juan F. Quiroga;4546;4108;-438;-10
+Jujuy;Santa Catalina;3140;2800;-340;-11
+Neuquen;Catán Lil;2469;2155;-314;-13
+Rio Negro;Ñorquinco;2079;1736;-343;-17
+La Pampa;Lihuel Calel;547;439;-108;-20
+Chubut;Mártires;977;778;-199;-20
